@@ -10,7 +10,7 @@ body {
     margin: 0;
 }
 
-.card {
+main {
     background-color: hsl(216, 50%, 16%);
     width: 320px;
     margin: 5em 0;
@@ -94,11 +94,11 @@ hr {
     height: 24px;
 }
 
-.attribution {
+footer {
     font-size: 11px;
     text-align: center;
 }
 
-.attribution a {
+footer a {
     color: white;
 }
