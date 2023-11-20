@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL] (https://github.com/stefanie-rethink-product/frontend-mentor/tree/main/002-nft-preview-card-component-main)
-- [Live Site URL] (https://stefanie-rethink-product.github.io/frontend-mentor/002-nft-preview-card-component-main/)
+- [Solution URL](https://github.com/stefanie-rethink-product/frontend-mentor/tree/main/002-nft-preview-card-component-main)
+- [Live Site URL](https://stefanie-rethink-product.github.io/frontend-mentor/002-nft-preview-card-component-main/)
 
 ## My process
 
