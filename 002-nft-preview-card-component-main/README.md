@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL] (https://github.com/stefanie-rethink-product/frontend-mentor/tree/main/002-nft-preview-card-component-main)
+- [Live Site URL] (https://stefanie-rethink-product.github.io/frontend-mentor/002-nft-preview-card-component-main/)
 
 ## My process
 
@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-- using flexbox and getting less confused with main axis/cross axis and align-content vs. align-items
+- practicing flexbox
 - stacking multiple background-image layers of different sizes
 
 ## Author
