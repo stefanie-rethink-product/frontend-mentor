@@ -7,7 +7,7 @@ body {
     margin: 0;
 }
 
-h2 {
+h1 {
     color: #502050;
     margin: 0;
 }
@@ -31,11 +31,11 @@ p {
     line-height: 135%;
 }
 
-#customer-name {
+.customer-name {
     font-weight: 700;
 }
 
-#verified {
+.verified {
     color: #EE68A4;
     font-weight: 500;
 }
@@ -70,7 +70,7 @@ p {
         max-width: 30rem;
     }
 
-    .proof h2 {
+    .proof h1 {
         font-size: 2.5rem;
         line-height: 80%;
         text-align: center;
@@ -156,7 +156,7 @@ p {
         width: 25.75rem;
     }
 
-    .proof h2 {
+    .proof h1 {
         font-size: 3.375rem;
         line-height: 90%;
         margin-bottom: 1.5rem;
@@ -236,15 +236,6 @@ p {
         height: 2.5rem;
         border-radius: 50%;
     }
-
-    #customer-name {
-        font-weight: 700;
-    }
-
-    #verified {
-        color: #EE68A4;
-        font-weight: 500;
-    }
 }
 
 /* desktop layout */
@@ -281,7 +272,7 @@ p {
         width: 25.75rem;
     }
 
-    .proof h2 {
+    .proof h1 {
         font-size: 3.375rem;
         line-height: 90%;
         margin-bottom: 1.5rem;
@@ -359,15 +350,6 @@ p {
         width: 2.5rem;
         height: 2.5rem;
         border-radius: 50%;
-    }
-
-    #customer-name {
-        font-weight: 700;
-    }
-
-    #verified {
-        color: #EE68A4;
-        font-weight: 500;
     }
 }
 
